@@ -25,4 +25,7 @@ loop 3
 n = 3
 double(n) returns = 6
 
-**output = 4**
+**output =
+2
+4
+6**
